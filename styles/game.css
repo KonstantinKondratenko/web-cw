@@ -1,0 +1,31 @@
+* 
+{
+    padding: 0;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    zoom: 122%;
+}
+
+body 
+{    
+    background-size:cover;
+    /* background-position: center; */
+    /* background-color: rgb(0, 118, 118); */
+    background-image: url("../assets/background/walk.gif");
+    background-repeat: no-repeat;
+}
+
+
+
+#main 
+{
+    display: flex;
+    justify-content: center;
+}
+
+
+#playground 
+{
+    border-radius: 10px;
+    background-color: #261515;
+}
